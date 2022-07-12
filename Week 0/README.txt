@@ -1,0 +1,1 @@
+Use the arrow keys when the note touches the corresponding key. Your score will increment for every success but will decrease on every missed note. The note speed will increase at every score increment of 5.
